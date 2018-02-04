@@ -1,0 +1,22 @@
+{
+  "name": "library",
+  "description": "Node with Express",
+  "main": "app.js",
+  "authors": [
+    "Mehul Jain"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/mehul230588/library",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1"
+  }
+}
