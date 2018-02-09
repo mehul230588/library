@@ -2,11 +2,6 @@ var express = require('express');
 var MongoClient = require('mongodb').MongoClient;
 var ObjectID = require('mongodb').ObjectID;
 var passport = require('passport');
-//https://cloud.mongodb.com/
-//test
-//testmongo@test.com
-
-
 
 var bookRouter = express.Router();
 bookRouter.use(function(request, response, next){
